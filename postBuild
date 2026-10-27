@@ -1,0 +1,1 @@
+wget -q -O gapminder.csv https://raw.githubusercontent.com/swcarpentry/python-novice-gapminder/gh-pages/data/gapminder_gdp_oceania.csv
